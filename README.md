@@ -93,5 +93,5 @@ Viz:          Plotly · Tableau · Power BI
 **Locations:** Hyderabad · Bangalore · Mumbai · Remote · USA
 
 <div align="center">
-  <i>MS Data Science · UMBC 2026 · GPA 3.78 &nbsp;|&nbsp; B.Tech CS · GITAM 2024 · 8.89/10</i>
+  <i>MS Data Science · UMBC 2026 · GPA 3.78/4 &nbsp;|&nbsp; B.Tech CS · GITAM 2024 · 8.89/10</i>
 </div>
