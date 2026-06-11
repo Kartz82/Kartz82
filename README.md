@@ -1,7 +1,7 @@
 <div align="center">
 
 # Kartikeya Vemula
-### Data Analyst · Product Analytics · Experimentation · Customer Intelligence
+### SQL · Python · PostgreSQL · BigQuery · Power BI · Product Analytics
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kartz82.github.io-3b82f6?style=for-the-badge&logo=github)](https://kartz82.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kartikeya-vemula)
