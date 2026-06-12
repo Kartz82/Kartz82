@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kartz82.github.io-3b82f6?style=for-the-badge&logo=github)](https://kartz82.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kartikeya-vemula)
-[![Resume](https://img.shields.io/badge/Resume-View-10b981?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1Nl1PC2fNnFqDeCUCg-iTiNh5ZC-KcuV9/view)
+[![Resume](https://img.shields.io/badge/Resume-View-10b981?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1ClTeqIbImAk_eBlJg8kYvmMhOpNczoeL/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail)](mailto:vnskartikeya@gmail.com)
 
 *MS Data Science · UMBC (2026) · 3.78 GPA · Open to DA / PA / BA / Analytics Engineer roles · India & Remote*
