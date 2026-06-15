@@ -1,128 +1,142 @@
-<div align="center">
-
 # Kartikeya Vemula
-### SQL · Python · PostgreSQL · BigQuery · Power BI · Product Analytics
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kartz82.github.io-3b82f6?style=for-the-badge&logo=github)](https://kartz82.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kartikeya-vemula)
-[![Resume](https://img.shields.io/badge/Resume-View-10b981?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1oASqhoVhgtb4D5mO0BgV-EGI_qqceYCI/view?usp=sharing)
-[![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail)](mailto:vnskartikeya@gmail.com)
+**Data Analyst · Product Analytics · Business Intelligence · Analytics Engineering**
 
-*MS Data Science · UMBC (2026) · 3.78 GPA · Open to DA / PA / BA / Analytics Engineer roles · India & Remote*
+[![Email](https://img.shields.io/badge/Email-vnskartikeya%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:vnskartikeya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/kartikeya-vemula)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-222?style=flat-square&logo=github)](https://your-portfolio-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Kartz82-181717?style=flat-square&logo=github)](https://github.com/Kartz82)
 
-</div>
+> 🟢 **Open to:** Data Analyst · Product Analyst · BI Analyst · Analytics Engineer · Risk Analytics roles
 
 ---
 
-Analytics professional focused on **product analytics, customer intelligence, experimentation, and KPI monitoring** — building systems that help organizations answer four questions:
+## About
 
-> **What happened? → Why? → What's next? → What should we do?**
+Data Analyst focused on **product analytics, customer intelligence, business intelligence, KPI diagnostics, experimentation, and risk analytics**. I build end-to-end analytics systems — from data pipelines and warehouses to executive dashboards and statistical models — and translate outputs into stakeholder-ready decisions.
 
-My work spans experimentation platforms, customer intelligence systems, anomaly diagnostics, forecasting pipelines, and analytics warehouses — built with SQL, Python, BigQuery, and modern BI tooling.
+**Core stack:** `SQL` · `Python` · `PostgreSQL` · `BigQuery` · `Power BI` · `Plotly` · `Docker` · `XGBoost`
 
 ---
 
 ## Analytics Domains
 
-| Domain | Capabilities |
+| Domain | What I Build |
 |---|---|
-| 🧪 **Product Analytics** | A/B Testing · Experimentation Design · Funnel Analysis · Conversion Optimization · Retention Analytics |
-| 👥 **Customer Intelligence** | Segmentation · Lifetime Value · Churn Risk · Cohort Analytics · Revenue Concentration |
-| 📊 **Business Intelligence** | KPI Monitoring · Root Cause Analysis · Anomaly Detection · Executive Dashboards |
-| 🏗️ **Analytics Engineering** | Data Warehousing · ETL Pipelines · Star Schema · BigQuery · Data Quality Monitoring |
+| **Customer & Product Analytics** | RFM segmentation, cohort analysis, CLV, retention/churn modeling, funnel analysis |
+| **Business Intelligence** | Star-schema warehouses, executive dashboards, KPI monitoring, geographic BI |
+| **Experimentation** | A/B test frameworks, lift estimation, statistical significance, variant reporting |
+| **Risk Analytics** | Tail-risk modeling, Extreme Value Theory, anomaly detection, threshold diagnostics |
+| **Analytics Engineering** | ETL pipelines, dimensional modeling, data quality & QA, idempotent upserts |
+| **Forecasting** | Time series modeling, multi-asset forecasting, rolling diagnostics |
 
 ---
 
-## Featured Projects
-
-### 👥 [Customer Segmentation & Retention Intelligence Platform](https://github.com/Kartz82/customer-segmentation-retention)
-**Business Problem:** Which customers generate the most value, which are at risk of leaving, and where should retention efforts be focused?
-
-End-to-end customer intelligence platform built on 1M+ retail transactions across 5,800+ customers. Implemented RFM segmentation, CLV analysis, churn-risk scoring, and cohort retention analytics — surfaced to leadership via executive dashboards.
-
-**Key findings:** Champions segment drove **68.35% of total revenue** · **£171K+ revenue** flagged as at-risk · 8-segment RFM framework built · Retention strategy dashboard delivered to stakeholders.
-
-`Python` `PostgreSQL` `SQL` `Pandas` `Plotly` `Customer Analytics` `CLV` `RFM`
+## Featured Analytics Systems
 
 ---
 
-### 🚀 [Growth Funnel Intelligence Engine](https://github.com/Kartz82/growth-funnel-intelligence)
-**Business Problem:** Where are users dropping out of the product journey, and which behaviors actually drive conversion?
+### 📊 [Customer Segmentation & Retention Intelligence Platform](https://github.com/Kartz82)
 
-Reconstructed GA4 user journeys across 34,984 sessions and 28,464 users. Isolated a **75.8% funnel leakage** between landing and product views while identifying high-intent pathways converting **13x more frequently** than baseline traffic.
+**Problem:** A retail business needed to identify which customers drove revenue, which were at risk of lapsing, and where lifecycle marketing investment would generate the highest ROI.
 
-**Key findings:** Funnel bottleneck pinpointed · 13x conversion disparity isolated · Attribution modeling framework developed · A/B testing foundation established.
+Built an RFM segmentation engine on 1M+ transactions, classifying 5,876 customers into 8 behavioral tiers using SQL window functions. Delivered cohort retention dashboards, CLV analysis, and executive reporting to quantify revenue concentration and flag at-risk accounts.
 
-`Python` `SQL` `PostgreSQL` `GA4` `Product Analytics` `Funnel Analysis`
+- **Champions (22.1% of customers) drove 68.35% of total revenue**
+- **£171K+ revenue identified at risk across 15 high-value inactive customers**
 
----
-
-### 🧪 [A/B Experimentation Engine](https://github.com/Kartz82/ab-experimentation-engine)
-**Business Problem:** How do you know if a product change actually worked — and didn't silently break something else?
-
-Full experimentation platform managing 10,000 users with power analysis, SRM detection, and guardrail metrics. Caught a **+3.4% conversion lift (p=0.038)** while auto-flagging a hidden **-1.8% iOS retention decline** — triggering a rollback before it caused damage.
-
-`Python` `A/B Testing` `Power Analysis` `FDR Control` `SciPy` `YAML`
+`Python` `SQL` `PostgreSQL` `RFM` `CLV` `Cohort Analysis` `Plotly`
 
 ---
 
-### 📊 [KPI Anomaly Diagnostics](https://github.com/Kartz82/kpi-anomaly-diagnostics)
-**Business Problem:** When a KPI drops, which team do you page at 2am — and why?
+### 🔁 [Growth Funnel Intelligence Engine](https://github.com/Kartz82)
 
-Replaced a Z-score baseline (62% precision) with an XGBoost residual model across **1.2M observations**. SHAP identified the top 3 root-cause features explaining 71% of anomaly variance. Cut analyst investigation time by **35%**.
+**Problem:** A product team needed visibility into where users were dropping out of the acquisition funnel and how conversion varied across segments, channels, and time.
 
-`XGBoost` `SHAP` `SQL` `BigQuery` `Root Cause Analysis` `1.2M rows`
+Built a multi-stage funnel analytics system with step-level conversion tracking, segment breakdowns, and time-windowed cohort views. Output designed for product and marketing stakeholders with drill-down capability.
 
----
-
-### 🌫️ [AQI Early Warning System](https://github.com/Kartz82/aqi-prediction)
-**Business Problem:** Standard models miss rare extreme pollution events — the ones that matter most.
-
-Applied Extreme Value Theory (GPD) on **17 years of EPA data (2.1M rows)**. Ensemble model R² **0.84** vs 0.61 baseline. Outputs 72-hour safety advisories for public health stakeholders.
-
-`Forecasting` `Extreme Value Theory` `XGBoost` `SHAP` `2.1M rows`
+`Python` `SQL` `Funnel Analysis` `Cohort Analysis` `Product Analytics` `Plotly`
 
 ---
 
-### 📈 [Multi-Asset Forecasting Pipeline](https://github.com/Kartz82/multi-asset-forecasting-pipeline)
-**Business Problem:** Which forecasting model wins on which asset class — and how do you validate that rigorously?
+### 🛒 [Instacart Customer & Operations Intelligence Platform](https://github.com/Kartz82)
 
-ARIMA vs Prophet across NVDA, AMD, MSFT. Prophet beat ARIMA by **12% RMSE** on seasonal assets. Walk-forward backtesting with **95% confidence intervals** across 30-day horizons.
+**Problem:** A high-volume grocery dataset needed to be turned into an actionable intelligence system across customer behavior, merchandising, and reorder analytics.
 
-`ARIMA` `Meta Prophet` `Walk-Forward Backtesting` `Statsmodels`
+Engineered a Dockerized PostgreSQL warehouse ingesting 3.4M+ orders across 206K customers and 49K SKUs. Built RFM segmentation, market basket analysis via Apriori, and a 4-tab Plotly Dash dashboard connected live to the database.
 
----
+- **55,092 at-risk customers identified (26.7% of base)**
+- **Apriori: 3.26 lift, 29.1% confidence on key product associations**
 
-### 🏗️ [Engineering Analytics Warehouse](https://github.com/Kartz82/engineering-analytics-warehouse)
-**Business Problem:** Engineering leadership needs commit velocity and team health metrics — without asking engineers.
-
-Idempotent ETL pipeline across **50+ GitHub repos** into BigQuery star schema. Zero data drops across **500+ runs**. SQL dashboards surfaced directly to leadership.
-
-`BigQuery` `Star Schema` `ETL` `GitHub REST API` `SQL`
+`Python` `PostgreSQL` `Docker` `SQL` `Apriori` `Plotly Dash` `Market Basket Analysis`
 
 ---
 
-## Tools & Skills
+### 🔬 [KPI Reliability & Diagnostic Engine](https://github.com/Kartz82)
 
-```
-Analytics:      SQL · Product Analytics · Customer Analytics · Funnel Analysis · A/B Testing
-                Cohort Analysis · KPI Monitoring · Root Cause Analysis · Segmentation · CLV
+**Problem:** Analysts were spending hours manually investigating KPI drops with no systematic way to surface the root segment or attribute causing a deviation.
 
-Engineering:    PostgreSQL · BigQuery · Apache Spark · ETL Pipelines · Star Schema · REST APIs
+Built an end-to-end KPI monitoring pipeline with 0–100 data health scores, volume/null checks, rolling z-score anomaly detection, and structured JSON diagnostics. Automated root cause analysis pinpointed Mobile/APAC/Safari as the primary segment offender (−9.2% change).
 
-Data Science:   Python · Pandas · XGBoost · Scikit-Learn · SHAP · ARIMA · Prophet · SciPy
-
-Visualization:  Power BI · Tableau · Plotly · Looker Studio
-```
+`Python` `SQL` `BigQuery-Compatible Schema` `Anomaly Detection` `Rolling Z-Score` `Plotly` `YAML`
 
 ---
 
-## Open To
+### 🏗️ [Customer Intelligence Data Warehouse](https://github.com/Kartz82)
 
-**Roles:** Data Analyst · Product Analyst · Business Analyst · Analytics Engineer · Decision Scientist
+**Problem:** Raw e-commerce transactions across 43 countries needed to be ingested, validated, and structured to support consistent AOV, repeat purchase, and LTV reporting.
 
-**Locations:** Hyderabad · Bangalore · Mumbai · United States · Remote
+Cleaned and modeled 1,067,371 transactions into a star-schema warehouse with fact and dimension tables. Delivered geographic BI dashboards in Power BI and Looker Studio for executive performance monitoring.
 
-<div align="center">
-  <i>MS Data Science · UMBC 2026 · GPA 3.78/4 &nbsp;|&nbsp; B.Tech CS · GITAM 2024 · 8.89/10</i>
-</div>
+`Python` `PostgreSQL` `Docker` `SQL` `ETL` `Star Schema` `Power BI` `Looker Studio`
+
+---
+
+### 🌫️ [Extreme-Value AQI Risk Modeling for Baltimore Air Quality](https://github.com/Kartz82/Extreme-Value-AQI-Prediction-for-Baltimore-City)
+
+**Problem:** Air quality data from the EPA is fragmented, inconsistent, and not structured for predictive modeling or tail-risk analysis out of the box.
+
+Rebuilt a reproducible EPA AirData pipeline for the Baltimore-Columbia-Towson region, consolidating AQI, pollutant (CO, Ozone, NO2, PM2.5, PM10, SO2), and meteorological predictors into a 6,573-row modeling dataset (2006–2023). Benchmarked 8 regression models; tuned XGBoost was best-in-class. Applied Extreme Value Theory (Peaks-over-Threshold, GPD) to 98 threshold exceedances to quantify severe AQI tail risk.
+
+- **Tuned XGBoost: RMSE 8.99, MAE 5.52, R² 0.852**
+- **98 exceedances above AQI 150 (1.49% exceedance rate)**
+- **P(AQI > 200 | AQI > 150) = 6.65% via GPD tail fit**
+
+`Python` `EPA AirData` `XGBoost` `Extreme Value Theory` `GPD` `Risk Analytics` `Forecasting`
+
+---
+
+## Additional Work
+
+| Project | Description |
+|---|---|
+| **A/B Experimentation Engine** | Statistical testing framework for lift estimation, significance testing, and variant reporting |
+| **Multi-Asset Forecasting Pipeline** | Time series forecasting across multiple assets with rolling evaluation and performance tracking |
+| **Engineering Analytics Warehouse** | GitHub REST API ETL into PostgreSQL star schema; SQL window functions for commit velocity and productivity reporting |
+
+---
+
+## Technical Stack
+
+| Layer | Tools |
+|---|---|
+| **Languages** | Python · SQL |
+| **Databases** | PostgreSQL · BigQuery |
+| **Analytics & ML** | scikit-learn · XGBoost · SciPy · pandas · NumPy |
+| **Visualization** | Plotly · Plotly Dash · Power BI · Looker Studio · Tableau |
+| **Engineering** | Docker · Git · REST APIs · ETL Pipelines |
+| **Methods** | RFM · CLV · Cohort Analysis · A/B Testing · Anomaly Detection · Extreme Value Theory · Star Schema · Dimensional Modeling |
+
+---
+
+## Currently
+
+- 📍 M.S. Data Science, UMBC — GPA 3.78 (2024–2026)
+- 🔬 Graduate Research Assistant — Risk Analytics (AQI modeling, EVT)
+- 🎯 Actively seeking full-time roles in **Data Analytics · Product Analytics · BI · Analytics Engineering**
+
+---
+
+## Contact
+
+📧 [vnskartikeya@gmail.com](mailto:vnskartikeya@gmail.com) · 📞 +1 (443) 630-1157 · [LinkedIn](https://linkedin.com/in/kartikeya-vemula) · [Portfolio](https://your-portfolio-link.com)
