@@ -1,14 +1,15 @@
 # Kartikeya Vemula
 
-**Data Analyst · Product Analytics · Business Intelligence · Analytics Engineering**
+### Data Analyst · Product Analytics · Business Intelligence · Analytics Engineering
 
-[![Email](https://img.shields.io/badge/Email-vnskartikeya%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:vnskartikeya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/kartikeya-vemula)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-222?style=flat-square&logo=github)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Kartz82-181717?style=flat-square&logo=github)](https://github.com/Kartz82)
+<p align="center">
+  <a href="mailto:vnskartikeya@gmail.com"><img src="https://img.shields.io/badge/Email-vnskartikeya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kartikeya-vemula"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-View-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Kartz82"><img src="https://img.shields.io/badge/GitHub-Kartz82-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 > 🟢 **Open to:** Data Analyst · Product Analyst · BI Analyst · Analytics Engineer · Risk Analytics roles
-
 ---
 
 ## About
@@ -139,4 +140,10 @@ Rebuilt a reproducible EPA AirData pipeline for the Baltimore-Columbia-Towson re
 
 ## Contact
 
-📧 [vnskartikeya@gmail.com](mailto:vnskartikeya@gmail.com) · 📞 +1 (443) 630-1157 · [LinkedIn](https://linkedin.com/in/kartikeya-vemula) · [Portfolio](https://your-portfolio-link.com)
+<p align="center">
+  <a href="mailto:vnskartikeya@gmail.com"><img src="https://img.shields.io/badge/Email-vnskartikeya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kartikeya-vemula"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-View-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">📞 +1 (443) 630-1157</p>
