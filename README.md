@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/kartikeya-vemula"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-View-222222?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/Kartz82"><img src="https://img.shields.io/badge/GitHub-Kartz82-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="[https://your-resume-link.com](https://drive.google.com/file/d/1RauajCNuEzpdk_8BNsy8GinxvrOfHxfQ/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 > 🟢 **Open to:** Data Analyst · Product Analyst · BI Analyst · Analytics Engineer · Risk Analytics roles
