@@ -1,6 +1,7 @@
 # Kartikeya Vemula
 
 ### Data Analyst · Product Analytics · Business Intelligence · Analytics Engineering
+🏅 **Certified:** Microsoft Power BI Data Analyst Associate (PL-300) · dbt Fundamentals (dbt Labs)
 
 <p align="center">
   <a href="mailto:vnskartikeya@gmail.com"><img src="https://img.shields.io/badge/Email-vnskartikeya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -88,9 +89,12 @@ Built an end-to-end KPI monitoring pipeline with 0–100 data health scores, vol
 
 **Problem:** Raw e-commerce transactions across 43 countries needed to be ingested, validated, and structured to support consistent AOV, repeat purchase, and LTV reporting.
 
-Cleaned and modeled 1,067,371 transactions into a star-schema warehouse with fact and dimension tables. Delivered geographic BI dashboards in Power BI and Looker Studio for executive performance monitoring.
+Cleaned and modeled 1,067,371 transactions into a Dockerized PostgreSQL star-schema warehouse with fact and dimension tables. Extended the pipeline with a validated dbt transformation layer — implementing staging, intermediate, and mart models for AOV, repeat purchase rate, CLV, country revenue, and monthly sales reporting. Enforced data quality through 41 dbt tests covering uniqueness, null validation, and referential integrity across 14 successfully built models. Generated BI-ready CSV exports, dbt documentation, and DAX and Power Query workflow documentation for executive performance monitoring in Power BI.
 
-`Python` `PostgreSQL` `Docker` `SQL` `ETL` `Star Schema` `Power BI` `Looker Studio`
+- **14 dbt models built · 41 dbt tests passed · dbt docs generated**
+- **Executive KPI marts cover AOV, Repeat Purchase Rate, CLV, Country Revenue, and Monthly Sales across 43 countries**
+
+`Python` `PostgreSQL` `Docker` `SQL` `dbt` `ETL` `Star Schema` `Analytics Engineering` `Data Quality` `Power BI`
 
 ---
 
@@ -126,7 +130,7 @@ Rebuilt a reproducible EPA AirData pipeline for the Baltimore-Columbia-Towson re
 | **Databases** | PostgreSQL · BigQuery |
 | **Analytics & ML** | scikit-learn · XGBoost · SciPy · pandas · NumPy |
 | **Visualization** | Plotly · Plotly Dash · Power BI · Looker Studio · Tableau |
-| **Engineering** | Docker · Git · REST APIs · ETL Pipelines |
+| **Engineering** | Docker · dbt · Git · REST APIs · ETL Pipelines |
 | **Methods** | RFM · CLV · Cohort Analysis · A/B Testing · Anomaly Detection · Extreme Value Theory · Star Schema · Dimensional Modeling |
 
 ---
