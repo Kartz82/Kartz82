@@ -1,10 +1,12 @@
+<div align="center">
+
 # Kartikeya Vemula
 
 **Analytics Engineer** · aligned with Business Intelligence, Data Analyst & Product Analyst roles
 
 Turning fragmented data into decision-ready infrastructure — dbt models, cloud warehouses, and executive dashboards that hold up under scrutiny.
 
-<p align="left">
+<p>
   <a href="mailto:vnskartikeya@gmail.com"><img src="https://img.shields.io/badge/Email-vnskartikeya%40gmail.com-4A4A4A?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/kartikeya-vemula"><img src="https://img.shields.io/badge/LinkedIn-Connect-4A4A4A?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Kartz82"><img src="https://img.shields.io/badge/GitHub-Kartz82-4A4A4A?style=flat-square&logo=github&logoColor=white"/></a>
@@ -13,6 +15,8 @@ Turning fragmented data into decision-ready infrastructure — dbt models, cloud
 
 > **🟢 Open to full-time opportunities** — Analytics Engineer · BI Analyst · Data Analyst · Product Analyst
 > Baltimore, MD · Open to U.S. full-time roles · Remote / Hybrid / Relocation-friendly
+
+</div>
 
 ---
 
@@ -99,6 +103,8 @@ Statistical testing utility standardizing sample sizing, hypothesis evaluation, 
 
 ---
 
+<div align="center">
+
 ## 🏅 Certifications
 
 | Certification | Category |
@@ -114,7 +120,11 @@ Statistical testing utility standardizing sample sizing, hypothesis evaluation, 
 | Cisco Data Analytics Essentials | Business Intelligence & Product |
 | Building with Claude / Anthropic API | Emerging Tech |
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📬 Let's Connect
 
@@ -125,3 +135,5 @@ Statistical testing utility standardizing sample sizing, hypothesis evaluation, 
 | **GitHub** | [github.com/Kartz82](https://github.com/Kartz82) |
 | **Portfolio** | [kartz82.github.io](https://kartz82.github.io) |
 | **Resume** | [View Resume](https://drive.google.com/file/d/1RauajCNuEzpdk_8BNsy8GinxvrOfHxfQ/view?usp=sharing) |
+
+</div>
