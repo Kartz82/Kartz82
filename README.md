@@ -136,6 +136,6 @@ Statistical testing utility standardizing sample sizing, hypothesis evaluation, 
 | **LinkedIn** | [linkedin.com/in/kartikeya-vemula](https://linkedin.com/in/kartikeya-vemula) |
 | **GitHub** | [github.com/Kartz82](https://github.com/Kartz82) |
 | **Portfolio** | [kartz82.github.io](https://kartz82.github.io) |
-| **Resume** | [View Resume](https://drive.google.com/file/d/1RauajCNuEzpdk_8BNsy8GinxvrOfHxfQ/view?usp=sharing) |
+| **Resume** | [View Resume](https://drive.google.com/file/d/1K02AmX70qOjcfsRAL4pewpjErQ0wahfE/view?usp=sharing) |
 
 </div>
