@@ -41,11 +41,11 @@ I bridge data engineering and business strategy — designing star schemas, orch
 ## 🚀 Featured Analytics Systems
 
 ### 1. 🏗️ Customer Intelligence Data Warehouse
-*Multi-country e-commerce transaction data → governed, self-serve analytics layer*
+*Multi-country e-commerce transaction data → governed, self-serve analytics layer (batch + streaming)*
 
-- **Problem:** Unstructured transaction data caused reporting discrepancies across executive teams tracking AOV and CLV.
-- **Approach:** Modeled 1M+ transactions into a Dockerized PostgreSQL star schema using **dbt Core** (staging → intermediate → marts), enforced by **41 automated data quality tests**.
-- **Impact:** Built a governed analytics layer enabling consistent KPI reporting across **43 countries**, reducing reporting fragmentation through dbt-tested dimensional models and self-serve Power BI access to transactional velocity and customer cohorts.
+- **Problem:** Unstructured transaction data caused reporting discrepancies across executive teams tracking AOV and CLV — and batch-only loading left no path to real-time, trustworthy ingestion.
+- **Approach:** Modeled 1M+ transactions into a Dockerized PostgreSQL star schema using **dbt Core** (staging → intermediate → marts), enforced by **57 automated data quality tests**; added cohort-retention & cumulative-LTV marts, then an additive **streaming layer** — Redpanda (Kafka API) → an **LLM-assisted clean gate (Gemini)** that abstains to quarantine on ambiguity → governed warehouse.
+- **Impact:** Governed analytics across **43 countries** with consistent KPIs and self-serve Power BI; the streaming AI-clean gate lifted valid-event acceptance from **55.6% to 85.2%** on identical input, while a reconciliation invariant guarantees no record is silently dropped.
 
 ### 2. 📈 GitHub Engineering Analytics Warehouse
 *Engineering activity data → velocity and bottleneck visibility*
@@ -96,13 +96,12 @@ Statistical testing utility standardizing sample sizing, hypothesis evaluation, 
 | Category | Tools |
 |---|---|
 | **Languages** | SQL (Advanced — Window Functions, CTEs), Python (Pandas, NumPy, SciPy) |
-| **Analytics Engineering** | dbt Core, dbt Tests, Star Schema & Dimensional Modeling, Fact/Dimension Tables, Data Quality Testing |
+| **Analytics Engineering** | dbt Core, dbt Tests, Star Schema & Dimensional Modeling, Fact/Dimension Tables, Data Quality Testing, Semantic Layer, Data Governance |
 | **Data Warehousing & Cloud** | Google Cloud Platform (BigQuery), PostgreSQL, Snowflake |
 | **Business Intelligence** | Power BI (DAX, Power Query), Looker Studio, Tableau |
 | **Product & Growth Analytics** | RFM Segmentation, Cohort Analysis, Funnel Analysis, CLV, A/B Testing |
-| **Data Ops & Tooling** | Docker, Git, REST APIs |
-| **Emerging / Additional** | Claude & Anthropic API integrations |
-
+| **Data Ops & Tooling** | Docker, Git, REST APIs, Redpanda (Kafka API) streaming |
+| **Emerging / Additional** | Claude & Anthropic API integrations, Gemini (LLM data cleaning) |
 ---
 
 <div align="center">
